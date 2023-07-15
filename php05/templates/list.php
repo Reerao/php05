@@ -31,6 +31,7 @@
         <div class="container jumbotron">
             <a href="detail.php"></a>
             <?= $view ?>
+            <p>xxx</p>
         </div>
     </div>
 </body>
